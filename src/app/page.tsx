@@ -35,7 +35,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroSplit
-          title="Craft Coffee, Crafted with Care"
+          title="Craft Coffee"
           description="Experience the perfect blend of artisanal coffee beans, expertly roasted and brewed fresh daily in our welcoming coffee shop"
           tag="Premium Coffee"
           tagIcon={Coffee}
@@ -50,7 +50,7 @@ export default function Home() {
 
       <div id="about" data-section="about">
         <TextSplitAbout
-          title="Our Coffee Story"
+          title="Our Story"
           description={[
             "Founded with a passion for exceptional coffee, we source the finest beans from sustainable farms around the world.",
             "Our expert roasters bring out unique flavors in every batch, while our skilled baristas craft each cup with precision and care."
